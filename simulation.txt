@@ -1,0 +1,98 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): Winter is coming !
+JetPlane#J1(3): Snowing and blowing up bushels of fun
+Helicopter#H1(4): I bless the rains down in Africa
+Helicopter#H2(5): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H3(6): Let's Jump Into The Fog
+Baloon#B3(7): It's raining men, amen
+JetPlane#J2(8): But it's raining, raining in my heart
+Helicopter#H4(9): Let it go, let it go ! Can't hold it back anymore
+Baloon#B1(1): Praise the sun, let's move up
+Baloon#B2(2): It's raining men, amen
+JetPlane#J1(3): This dark fog will appear
+Helicopter#H1(4): This is hot, let's go
+Helicopter#H2(5): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H3(6): I bless the rains down in Africa
+Baloon#B3(7): Praise the sun, let's move up
+JetPlane#J2(8): But it's raining, raining in my heart
+Helicopter#H4(9): I bless the rains down in Africa
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): Praise the sun, let's move up
+JetPlane#J1(3): Set the controls for the heart of the sun
+Helicopter#H1(4): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H2(5): This is hot, let's go
+Helicopter#H3(6): I bless the rains down in Africa
+Baloon#B3(7): Holy Fog !
+JetPlane#J2(8): Set the controls for the heart of the sun
+Helicopter#H4(9): I bless the rains down in Africa
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): Holy Fog !
+JetPlane#J1(3): Set the controls for the heart of the sun
+Helicopter#H1(4): This is hot, let's go
+Helicopter#H2(5): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H3(6): I bless the rains down in Africa
+Baloon#B3(7): Winter is coming !
+JetPlane#J2(8): This dark fog will appear
+Helicopter#H4(9): This is hot, let's go
+Baloon#B1(1): Praise the sun, let's move up
+Baloon#B2(2): Praise the sun, let's move up
+JetPlane#J1(3): Snowing and blowing up bushels of fun
+Helicopter#H1(4): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4)  unregistered from weather tower.
+Helicopter#H2(5): This is hot, let's go
+Helicopter#H3(6): I bless the rains down in Africa
+Baloon#B3(7): Holy Fog !
+JetPlane#J2(8): Snowing and blowing up bushels of fun
+Helicopter#H4(9): Let it go, let it go ! Can't hold it back anymore
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): It's raining men, amen
+JetPlane#J1(3): But it's raining, raining in my heart
+Helicopter#H2(5): Let it go, let it go ! Can't hold it back anymore
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5)  unregistered from weather tower.
+Helicopter#H3(6): Let's Jump Into The Fog
+Baloon#B3(7): Praise the sun, let's move up
+JetPlane#J2(8): Set the controls for the heart of the sun
+Helicopter#H4(9): This is hot, let's go
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): It's raining men, amen
+JetPlane#J1(3): Set the controls for the heart of the sun
+Helicopter#H3(6): Let it go, let it go ! Can't hold it back anymore
+Baloon#B3(7): It's raining men, amen
+JetPlane#J2(8): This dark fog will appear
+Helicopter#H4(9): Let it go, let it go ! Can't hold it back anymore
+Baloon#B1(1): Praise the sun, let's move up
+Baloon#B2(2): It's raining men, amen
+JetPlane#J1(3): This dark fog will appear
+Helicopter#H3(6): I bless the rains down in Africa
+Baloon#B3(7): It's raining men, amen
+JetPlane#J2(8): Set the controls for the heart of the sun
+Helicopter#H4(9): This is hot, let's go
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): Winter is coming !
+JetPlane#J1(3): This dark fog will appear
+Helicopter#H3(6): This is hot, let's go
+Baloon#B3(7): It's raining men, amen
+JetPlane#J2(8): Snowing and blowing up bushels of fun
+Helicopter#H4(9): Let it go, let it go ! Can't hold it back anymore
+Baloon#B1(1): Holy Fog !
+Baloon#B2(2): It's raining men, amen
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2)  unregistered from weather tower.
+JetPlane#J1(3): Snowing and blowing up bushels of fun
+Helicopter#H3(6): Let it go, let it go ! Can't hold it back anymore
+Baloon#B3(7): Winter is coming !
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7)  unregistered from weather tower.
+JetPlane#J2(8): Set the controls for the heart of the sun
+Helicopter#H4(9): This is hot, let's go
